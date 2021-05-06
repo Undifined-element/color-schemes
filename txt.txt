@@ -1,6 +1,18 @@
 color context
-Ultimate gray and illuminating(yeallow shade)
-Big Bold Rugged "GET YOUR SUMMER BODY READY"
+
+cdc
+
+
+Fonts: Montserrat
+Colors: 040D12, EBE5E1, FFBABF, FFF8BB, A9F8E1, FFF8F3
+Tools: Adobe XD
+
+//////////////
+Fonts: DM Serif Display, Questrial
+Colors: F7B70D, 7FB432, EDE6DD, 000000, FFFFFF
+Tools: Adobe Photoshop
+
+****
 
 
 for adm
@@ -9,7 +21,6 @@ Colors: 8042FE, 4F3AF4, 06396D
 
 
 
-cdc
-Fonts: Montserrat
-Colors: 040D12, EBE5E1, FFBABF, FFF8BB, A9F8E1, FFF8F3
-Tools: Adobe XD
+***
+Ultimate gray and illuminating(yeallow shade)
+Big Bold Rugged "GET YOUR SUMMER BODY READY"
