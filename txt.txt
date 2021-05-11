@@ -16,7 +16,7 @@ Tools: Adobe Photoshop
 
 
 for adm
-Fonts: Sora
+Fonts: Sora/////Madeleine,Audhistine,surfshirt,maria signature
 Colors: 8042FE, 4F3AF4, 06396D
 
 
